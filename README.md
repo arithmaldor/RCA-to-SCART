@@ -33,8 +33,12 @@ quality ones will do.
 Mounting hole size is M3, can be used with motherboard standoffs for mounting on MDF or acrylic or something else.
 
 
-# Version 0.1
-This board is untested, I may be a few soon after which I will update the version number to 1.0 if everything works out.
+# Changelog
+0.1 - This board is untested, I may be a few soon after which I will update the version number to 1.0 if everything works out.
+
+0.2 - The shield througholes of the microusb port were not connected to ground, this has been fixed. I also moved a few traces
+around to make it easier to disconnect pin 8 if it is causing your TV to force to 16:9.
+
 
 # OSHPark
 https://oshpark.com/shared_projects/0eRQCdKa
